@@ -1,9 +1,9 @@
 import React from "react";
-import XTable from "./Components/xtable"
+import XTable from "./Components/xtable/XTable"
 const App = () =>{
     return(
         <>
-        
+
             <XTable/>
         </>
     )
