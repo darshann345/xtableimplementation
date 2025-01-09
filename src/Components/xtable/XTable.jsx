@@ -1,5 +1,5 @@
 import React,{useState} from "react";
-const App = () =>{
+const XTable = () =>{
     const [data,setData] = useState(
         [
             {date:"2022-09-01",views:100,article:"Article 1"},
