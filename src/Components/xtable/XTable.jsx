@@ -65,5 +65,6 @@ const App = () =>{
         
         </>
     )
+    
 }
 export default XTable;

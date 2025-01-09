@@ -3,6 +3,7 @@ import XTable from "./Components/xtable"
 const App = () =>{
     return(
         <>
+        
             <XTable/>
         </>
     )
